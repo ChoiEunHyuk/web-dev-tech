@@ -5,9 +5,9 @@ REST(Representational State Transfer)의 약자로 자원을 이름으로 구분
     - HTTP Method(POST, GET, PUT, DELETE, PATCH 등)를 통해
     - 해당 자원(URI)에 대한 CRUD Operation을 적용하는 것을 의미합니다.
     
-    💡 **CRUD Operation이란**
+- **CRUD Operation이란**
     
-    CRUD는 대부분의 컴퓨터 소프트웨어가 가지는 기본적인 데이터 처리 기능인 Create(생성), Read(읽기), Update(갱신), Delete(삭제)를 묶어서 일컫는 말
+    - CRUD는 대부분의 컴퓨터 소프트웨어가 가지는 기본적인 데이터 처리 기능인 Create(생성), Read(읽기), Update(갱신), Delete(삭제)를 묶어서 일컫는 말
     
 - **REST 구성 요소**
     - **자원(Resource) : HTTP URI**
