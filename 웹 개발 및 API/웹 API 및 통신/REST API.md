@@ -1,28 +1,25 @@
 REST(Representational State Transfer)의 약자로 자원을 이름으로 구분하여 해당 자원의 상태를 주고받는 모든 것을 의미
 
 - **REST란?**
-    1. HTTP URI(Uniform Resource Identifier)를 통해 자원(Resource)을 명시하고,
-    2. HTTP Method(POST, GET, PUT, DELETE, PATCH 등)를 통해
-    3. 해당 자원(URI)에 대한 CRUD Operation을 적용하는 것을 의미합니다.
+    - HTTP URI(Uniform Resource Identifier)를 통해 자원(Resource)을 명시하고,
+    - HTTP Method(POST, GET, PUT, DELETE, PATCH 등)를 통해
+    - 해당 자원(URI)에 대한 CRUD Operation을 적용하는 것을 의미합니다.
     
-    <aside>
     💡 **CRUD Operation이란**
     
     CRUD는 대부분의 컴퓨터 소프트웨어가 가지는 기본적인 데이터 처리 기능인 Create(생성), Read(읽기), Update(갱신), Delete(삭제)를 묶어서 일컫는 말
     
-    </aside>
-    
 - **REST 구성 요소**
-    1. **자원(Resource) : HTTP URI**
-    2. **자원에 대한 행위(Verb) : HTTP Method**
-    3. **자원에 대한 행위의 내용 (Representations) : HTTP Message Pay Load**
+    - **자원(Resource) : HTTP URI**
+    - **자원에 대한 행위(Verb) : HTTP Method**
+    - **자원에 대한 행위의 내용 (Representations) : HTTP Message Pay Load**
 
 - **REST의 특징**
-    1. Server-Client(서버-클라이언트 구조)
-    2. Stateless(무상태)
-    3. Cacheable(캐시 처리 가능)
-    4. Layered System(계층화)
-    5. Uniform Interface(인터페이스 일관성)
+    - Server-Client(서버-클라이언트 구조)
+    - Stateless(무상태)
+    - Cacheable(캐시 처리 가능)
+    - Layered System(계층화)
+    - Uniform Interface(인터페이스 일관성)
 
 - **REST의 장단점**
     
